@@ -57,3 +57,7 @@ Welcome to my GitHub profile! I'm passionate about programming, data analysis, w
 ---
 
 💡 *"Keep coding, keep learning!"* 🚀
+
+## 🐍 Watch snake eating my GitHub contributions
+
+![snake gif](https://github.com/Aliyan-AA/Aliyan-AA/blob/output/github-contribution-grid-snake.svg)
